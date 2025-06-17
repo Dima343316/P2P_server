@@ -37,7 +37,7 @@
 ```bash
 pip install -r requirements.txt
 
-Конфигурация
+## Конфигурация
 
 Создайте файл .env в корне проекта и добавьте туда ваш секретный ключ для шифрования:
 
@@ -48,7 +48,7 @@ FERNET_KEY=ваш_ключ_из_fernet_generate_key()
 from cryptography.fernet import Fernet
 print(Fernet.generate_key().decode())
 
-Запуск
+## Запуск
 Первый узел
 
 python main.py
