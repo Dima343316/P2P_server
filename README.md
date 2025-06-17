@@ -105,6 +105,6 @@ Content-Type: application/json
 
 
 
-![P2P Диаграмма](Снимок экрана от 2025-06-18 00-48-19.png)
+![P2P Диаграмма](screen.png)
 
 
